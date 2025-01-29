@@ -1,0 +1,6 @@
+<svg>
+  <rect id="background" width="336" height="336" fill="#FFFFFF"/>
+  <text id="qrname" x="168" y="35" text-anchor="middle" font-size="30" fill="#000000">A Cool QR Code</text>
+  <rect id="imagecontainer" width="270" height="270" x="33" y="55" rx="20" ry="20" fill="white"/>
+  <image href="qr.png" width="250" height="250" x="43" y="65"/>
+</svg>
