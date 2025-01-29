@@ -32,5 +32,5 @@ Build and sideload your app using the SDK for your supported device. That would 
 * Build and Install: `bi`
 
 ## Screenies
-![image](Screenshot 2025-01-29 at 18.42.49.png)
-![image](Screenshot 2025-01-29 at 18.29.14.png)
+![image](Screenshot2025-01-29at18.42.49.png)
+![image](Screenshot2025-01-29at18.29.14.png)
